@@ -4,7 +4,7 @@
 
 The To-Do list is built with html, css, and vanila javascript.
 
-Features
+### Features
 
 * add/delete tasks
 * Display the current time
