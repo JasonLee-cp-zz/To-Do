@@ -6,7 +6,7 @@ function getRandomNum(x,y){
 }
 function paintImage(imgNum){
     const image = new Image();
-    image.src = `../img/${imgNum}.jpg`;
+    image.src = `./img/${imgNum}.jpg`;
     image.classList.add("bgImage");
     body.prepend(image);
 }
